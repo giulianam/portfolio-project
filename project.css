@@ -31,10 +31,14 @@ h4 {
     display: flex;
     align-content: center;
     justify-content: center;
-    margin: 20px;
+
 
 }
 
+.dish img {
+    width: 80%;
+
+}
 
 h3 {
     font-size: 30px;
